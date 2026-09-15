@@ -5,7 +5,7 @@
 
 [visita github]https://github.com/
 
-![una casa](assets/img/casa.jpeg)
+![una coche](assets/img/coche.jpeg
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=smokum&weight=900&size=28&pause=1000&color=4C02F7&width=435&lines=lenguaje)](https://git.io/typing-svg)
 - html
