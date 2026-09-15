@@ -1,33 +1,38 @@
 # :rocket: 
-# practicas phyton
-## smr2
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F701&width=435&lines=the+goat+)](https://git.io/typing-svg)
-
-
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=smokum&weight=900&size=28&pause=1000&color=4C02F7&width=435&lines=chase+your+dreams)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=smokum&weight=900&size=28&pause=1000&color=4C02F7&width=435&lines=smr2;javier+rocha)](https://git.io/typing-svg)
 ~~nini~~
 
 [visita github]https://github.com/
 
 ![una casa](assets/img/casa.jpeg)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=smokum&weight=900&size=28&pause=1000&color=4C02F7&width=435&lines=lenguaje)](https://git.io/typing-svg)
 - html
 - css 
 - java script 
 - phyton
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=smokum&weight=900&size=28&pause=1000&color=4C02F7&width=435&lines=habilidades)](https://git.io/typing-svg)
+
 1. diseñar 
 2. programar 
 3. probar
 4. publicar
-- [ ] jugar
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=smokum&weight=900&size=28&pause=1000&color=4C02F7&width=435&lines=hoobies)](https://git.io/typing-svg)
+
+- [x] jugar
 - [x] trabajar
+- [x] deporte
+- [x] aprender
+## :rocket: [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=smokum&weight=900&size=28&pause=1000&color=4C02F7&width=435&lines=mi+proyecto)](https://git.io/typing-svg)
 
-## :rocket: mi proyecto
-
-- [x] crear el repositorio 
-- [x] crear readme
-- [ ] añdir imagenes
-- [ ] terminar el proyecto
-- [ ] publicarlo
+- [x] crear una empresa
+- [ ] facturar millones
+- [ ] jubilar a mis padres
+- [ ] importar coches
+- [ ] tener un ap 
 
  `git status`
  ```python
