@@ -28,4 +28,26 @@ smr2
 - [ ] jugar
 - [x] trabajar
 
-:rocket:
+## :rocket: mi proyecto
+
+- [x] crear el repositorio 
+- [x] crear readme
+- [ ] añdir imagenes
+- [ ] terminar el proyecto
+- [ ] publicarlo
+
+ `git status`
+ ```python
+print("Hola mundo")
+```
+| Nombre | Edad | Curso |
+|---|---:|---|
+| ana | 16 | 4º ESO |
+| Luis | 17 | 1º Bach |
+| Marta | 16 | 4º ESO |
+# mi rpoyecto
+informacion
+
+---
+# instalacion
+pasos para instalar
