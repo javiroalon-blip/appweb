@@ -40,7 +40,7 @@ print("programdor")
 ```
 | Nombre | edad | dinero|
 |---|---:|---|
-| javier| 18| 20.00|
+| javier| 18| 20.000|
 | ruben| 17 | 30.000|
 | medina| 17 | 50.000|
 # mi proyecto
