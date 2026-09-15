@@ -1,4 +1,4 @@
-
+ ## :rocket: 
 # practicas phyton
 ## rochi :rocket:
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F701&width=435&lines=the+goat+)](https://git.io/typing-svg) :goat: 
