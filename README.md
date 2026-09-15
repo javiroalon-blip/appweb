@@ -47,4 +47,4 @@ print("programdor")
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=smokum&weight=900&size=28&pause=1000&color=4C02F7&width=435&lines=empresa)](https://git.io/typing-svg)
 
 ---
-# :money:
+# :dollar:
