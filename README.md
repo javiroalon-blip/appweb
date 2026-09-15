@@ -36,16 +36,15 @@
 
  `git status`
  ```python
-print("Hola mundo")
+print("programdor")
 ```
-| Nombre | Edad | Curso |
+| Nombre | edad | dinero|
 |---|---:|---|
-| ana | 16 | 4º ESO |
-| Luis | 17 | 1º Bach |
-| Marta | 16 | 4º ESO |
-# mi rpoyecto
-informacion
+| javier| 18| 20.00|
+| ruben| 17 | 30.000|
+| medina| 17 | 50.000|
+# mi proyecto
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=smokum&weight=900&size=28&pause=1000&color=4C02F7&width=435&lines=empresa)](https://git.io/typing-svg)
 
 ---
-# instalacion
-pasos para instalar
+# :money:
