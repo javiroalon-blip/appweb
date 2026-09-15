@@ -1,19 +1,12 @@
-# appweb
-smr2
-### javier rocha
-# titulo 1
-## titulo 2
-## subapartado
-#### otro nivel
-**negrita** 
+# :rocket: 
+# practicas phyton
+## smr2
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F701&width=435&lines=the+goat+)](https://git.io/typing-svg)
 
-*cursiva*
 
-***negrita+cursiva***
+~~nini~~
 
-~~tachado~~
-
-[visita google]https://www.google.com/webhp?hl=es&sa=X&ved=2ahUKEwjq4cjzjfCWAxW_dqQEHTaxGk4QPHoECAYQBA
+[visita github]https://github.com/
 
 ![una casa](assets/img/casa.jpeg)
 
